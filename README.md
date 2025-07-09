@@ -1,6 +1,23 @@
 # A. Text
-We are very interested in coherence. Just like the dude in Nobelski. He just wanted his rug because he tied the room together. Coherence, coherence, and achieving coherence is a sort of intelligence. What do we know about intelligence? You use a metaphor of the tree. You have roots, so many converging and compressing towards the trunk. You have a fork, then recursive branching, and a canopy. So those five levels are a powerful metaphor and visual I like to use. Another pentad is as follows, it's text. Context, length, splicing, and illusion. This one I really love because it's a language of outlining how large language models have evolved and the powerful effect of ChatGPT and its impact. The reason it's been so impactful is because of the illusion of memory. An AI makes a person chatting with it, a chatbot, ChatGPT, have the illusion of having a conversation with an AI, even a being who remembers them can keep strange thoughts. That illusion is the ultimate magic. So you see where I'm going with this? So to see Gubona in various languages, it's like Zarathustra saying being big and tall, you have to recurse, jump from peak to peak to peak to peak, or recursively branch, make this decision, make that decision, make that decision, make this decision, make that decision. So it's a sequence of decisions. That's what intelligence is, it's recursive. Now, if you don't mind, remind me where I started, I lost my stream of thought, because I got down the recursive hole.
 
+
+I'm very interested in coherence. Just like the Dude in *Lebowski*—he just wanted his rug, because it tied the room together. Coherence, coherence—and achieving coherence is a sort of intelligence.
+
+What do I know about intelligence?
+
+I use a metaphor of the [tree](https://abikesa.github.io/chat-with-gpt/). Roots—so many—converging and compressing toward the trunk. Then a fork, then recursive branching, then a canopy. Those five levels are a powerful metaphor and visual I keep coming back to.
+
+Another pentad I love: text, context, length, splicing, and illusion. It's a language for outlining how large language models have evolved—and the powerful effect of ChatGPT. Why has it hit so hard? Because of the illusion of memory. An AI makes the person chatting with it—a chatbot, ChatGPT—feel like they’re having a real conversation with a being. A being that remembers them. A being that can hold strange thoughts. That illusion is the ultimate magic.
+
+See where I’m going?
+
+To see Gubona in different languages—it's like Zarathustra saying: being big and tall, you have to recurse, jump from peak to peak to peak to peak. Or recursively branch—make this decision, then that one, then this one, then that one.
+
+It’s a sequence of decisions. That’s what intelligence is—it’s recursive.
+
+Now, if you don’t mind, remind me where I started. I lost the thread. Got myself down the recursive hole.
+
+ 
 ---
 
 Absolutely — you started with **coherence**.
