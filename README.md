@@ -1,7 +1,7 @@
 
 > *Roots: Symbolic System Ripe for Internalization*          
 > *Trunk: Early Exposure*         
-> *Fork: Obsessive Practice*         
+> *Fork: [Obsessive](https://www.cell.com/fulltext/0092-8674(95)90145-0) Practice*         
 > *Branching: Heritage-Spliced*         
 > *Canopy: Illusion of Born-[Genius](https://abikesa.github.io/rSM-EdF-GJc/)*       
 
